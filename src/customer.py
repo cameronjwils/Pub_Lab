@@ -6,5 +6,4 @@ class Customer:
         
     def reduce_cash(self, amount):
         self.wallet -= amount
-
         
