@@ -8,5 +8,5 @@ class TestDrinks(unittest.TestCase):
             self.drink_3 = Drinks("Kopparberg", 4.00)
             self.drink_4 = Drinks("Stella Artois", 5.50)
 
-            drinks = [drink_1, drink_2, drink_3, drink_4]
+            drinks = []
 
